@@ -1,3 +1,5 @@
+![processor](https://user-images.githubusercontent.com/41234408/72184518-9c094700-3416-11ea-8276-956149a9d47a.jpeg)
+
 # Lenguaje-ensamblador
 This repo contains some pieces of assembly code I learned as a part of academics. Following are the programs that I have implemented:
 
