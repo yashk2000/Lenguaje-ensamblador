@@ -17,3 +17,6 @@ This repo contains some pieces of assembly code I learned as a part of academics
 - [Finding sum of 2 numbers using indirect addresssing](https://github.com/yashk2000/Lenguaje-ensamblador/blob/master/sumIndirect.asm)
 - [Swap data in different memory locations](https://github.com/yashk2000/Lenguaje-ensamblador/blob/master/swap.asm)
 - [Swap data using indirect addressing](https://github.com/yashk2000/Lenguaje-ensamblador/blob/master/swapIndirect.asm)
+- [A program to count number of 1’s in the contents of C register and store the count in the E register](https://github.com/yashk2000/Lenguaje-ensamblador/blob/master/code1.asm)
+- [An assembly language program to separate even numbers from the given list of 50 numbers and store them in the another list starting from 2300H. Assume starting address of 50 number list is 2200H](https://github.com/yashk2000/Lenguaje-ensamblador/blob/master/code2.asm)
+- [Calculate the sum of series of even numbers from the list of numbers. The length of the list is in memory location 2200H and the series itself begins from memory location 2201H. Assume the sum to be 8 bit number so you can ignore carries and store the sum at memory location 2210H](https://github.com/yashk2000/Lenguaje-ensamblador/blob/master/code3.asm)
